@@ -1,0 +1,136 @@
+html {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-image: url("images/fondou.jpg");
+
+    background-position: center center;
+    }
+
+#header{
+    background-color: rgb(38, 38, 38);
+    padding: 2rem;
+}
+
+.inline {
+    display: inline;
+}
+
+.titulo {
+    color: white;
+    padding: 10px 40px 10px 40px;
+    margin: 0px 0px 0px 60px; 
+}
+
+.ingreso{
+    color: white;
+    padding: 10px 15px 10px 15px;
+    margin: 10px 15px 10px 750px;
+}
+
+.registrar {
+    color: white;
+    padding: 10px 15px 10px 15px;
+    margin: 10px 15px 10px 15px ;
+}
+
+.Sestilo {
+    border-radius: 0.5rem;
+    margin: 50px 80px 30px 80px;
+    width: 1200px;
+    max-height: 200px;
+    background: url('images/principio.jpg'); 
+}
+
+#subtitulo {
+    color: white;
+    padding: 30px 700px 20px 80px;
+    margin: 0;
+    text-size-adjust: 200px;
+}
+
+#parrafo {
+    max-width: 300px;
+    max-height: 20px;
+    color: white;
+    padding: 10px 30px 20px 900px;
+    margin: 0;
+}
+
+#o {
+    background-color: rgb(38, 38, 38);
+    padding: 2rem   ;
+}
+
+#ofrece {
+    color: white;
+    text-align: center;
+}
+
+#lugar {
+    transition: box-shadow 0.3s ease;
+    width: 800px;
+    cursor: pointer;
+    margin: 200px 200px 200px 400px; 
+    background-color: rgb(38, 38, 38);
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+}
+
+#lugar:hover {
+    box-shadow: 0 0.1rem 0.4rem rgb(0, 0, 0)
+}
+
+#oferta {
+    transition: box-shadow 0.3s ease;
+    width: 900px;
+    cursor: pointer;
+    margin: 300px 300px 300px 400px; 
+    background-color: rgb(38, 38, 38);
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+}
+
+#oferta:hover {
+    box-shadow: 0 0.1rem 0.4rem rgb(0, 0, 0)
+}
+
+#asesorar {
+    transition: box-shadow 0.3s ease;
+    width: 400px;
+    cursor: pointer;
+    margin: 100px 100px 100px 700px; 
+    background-color: rgb(38, 38, 38);
+    border-radius: 0.5rem;
+    padding: 0.25rem 0;
+}
+
+#asesorar:hover {
+    box-shadow: 0 0.1rem 0.4rem rgb(0, 0, 0)
+}
+
+.texto {
+    color:white;
+    margin: 1rem;
+}
+
+footer {
+    background-color: rgb(38, 38, 38);
+    padding: 3rem;
+    color: white
+}
+
+footer section {
+    float: right;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
