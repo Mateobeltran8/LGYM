@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    background-image: url("images/fondou.jpg");
+    background-image: url("../images/fondou.jpg");
 
     background-position: center center;
     }
@@ -41,7 +41,7 @@ body {
     margin: 50px 80px 30px 80px;
     width: 1200px;
     max-height: 200px;
-    background: url('images/principio.jpg'); 
+    background: url('../images/principio.jpg'); 
 }
 
 #subtitulo {

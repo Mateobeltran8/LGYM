@@ -5,7 +5,7 @@ html {
 body {
     margin: 0;
     height: auto;
-    background-image: url("css/images/fondou.jpg");
+    background-image: url("../images/fondou.jpg");
 }
 
 .container {
@@ -32,6 +32,6 @@ h1{
 .apartado {
     border-radius: 5rem 1rem;
     margin: 0.5rem 16.5rem;
-    color: white;
+    color: black;
     display: block;
 }
